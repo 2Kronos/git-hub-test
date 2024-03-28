@@ -1,4 +1,4 @@
-sleep 2000
+@echo off
 git add .
 git commit -m "Auto Push"
 git push
